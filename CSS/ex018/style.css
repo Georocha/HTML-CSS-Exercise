@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Rowdies:wght@300&display=swap');
+
+h1 {
+    font-family: 'Pacifico',cursive ,sans-serif;
+    font-size: 36px;
+}
+
+p {
+    font-family: 'Pacifico', cursive;
+    font-size: 1em;
+}
