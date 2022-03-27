@@ -12,7 +12,9 @@ header {
 
 nav {
     background-color: aliceblue; 
-    padding: 2px;  
+    padding: 2px;
+    box-shadow: 1px 1px 8px 1px rgba(0,0,0,0.342);
+    border-radius: 5px;
 }
 nav > a {
     text-decoration: none;
@@ -34,6 +36,8 @@ main {
 article {
     background-color: azure;
     padding: 5px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 8px 1px rgba(0,0,0,0.342);
 }
 
 article > aside {
@@ -45,4 +49,8 @@ footer {
     color: azure;
     text-align: center;
     padding: 1px;
+}
+
+footer > p {
+    margin: 0px;
 }
