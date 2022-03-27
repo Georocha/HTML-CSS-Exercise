@@ -1,0 +1,13 @@
+body {
+    background-color: brown;
+}
+
+h1 {
+color: aliceblue;
+border: 15px solid transparent;
+padding: 2px;
+text-align: center;
+border-image-source: url(https://img.freepik.com/vetores-gratis/fundo-abstrato-linhas-organicas_1017-26669.jpg); 
+border-image-slice: 15;
+border-image-repeat: repeat   
+};
