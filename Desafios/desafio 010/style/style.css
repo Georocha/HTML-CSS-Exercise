@@ -24,6 +24,7 @@
 * {
     margin: 0px;
     padding: 0px;
+    font-variant: none;
 }
 
 body {
@@ -171,6 +172,10 @@ aside > ul {
     list-style-position: inside;
     list-style-type: '\2714\00a0';
     columns: 2;
+}
+
+ abbr {
+    font-variant: none;
 }
 
 footer {
